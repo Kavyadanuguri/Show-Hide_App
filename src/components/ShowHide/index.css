@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to left, #fa7257, #fc63a7);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+
+.b1 {
+  color: #dd1264;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  border-width: 0px;
+  font-family: 'roboto';
+  font-weight: bold;
+}
+.con1 {
+  display: flex;
+  flex-direction: column;
+}
